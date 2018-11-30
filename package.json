@@ -1,0 +1,24 @@
+{
+  "name": "aws-rds-demo",
+  "version": "1.0.0",
+  "description": "A service that allows you to set up and operate a relational database in the cloud. It allows us to create a PostgreSQL instance",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlohaJarren/aws-rds-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlohaJarren/aws-rds-demo/issues"
+  },
+  "homepage": "https://github.com/AlohaJarren/aws-rds-demo#readme",
+  "dependencies": {
+    "pg": "^7.6.1",
+    "pg-pool": "^2.0.4"
+  }
+}
